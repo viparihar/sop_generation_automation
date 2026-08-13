@@ -12,6 +12,7 @@ load_dotenv()
 
 llm = ChatMistralAI(
     model = "mistral-small-2603",
+    api_key = os.getenv("MISTRAL_API_KEY")
 )
 
 structured_llm = llm.with_structured_output(
