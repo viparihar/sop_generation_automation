@@ -3,13 +3,14 @@ from fastapi import HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 from .transcript_service import TranscriptService
-from llm_service import SOPService
-from models import MeetingRequest
-from models import SOPModel
+from .llm_service import SOPService
+from .models import MeetingRequest, SOPModel
+
 
 app = FastAPI(
     title="Meeting SOP Generator"
 )
+
 
 app.add_middleware(
     CORSMiddleware,
