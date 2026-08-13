@@ -1,0 +1,29 @@
+Emma (Support Manager): Thank you all for joining. Today we need to discuss customer support performance and identify opportunities to improve response times.
+
+Raj (Team Lead): Currently our average first response time is 8 hours. Our target is 4 hours.
+
+Priya (Support Analyst): Most delays occur during weekends and after business hours. We have limited staffing during those periods.
+
+Emma: What options do we have?
+
+Raj: We can implement a rotating on-call schedule so that a smaller team can monitor urgent tickets outside normal business hours.
+
+Priya: Another issue is ticket categorization. Many requests are incorrectly assigned, causing delays before they reach the right team.
+
+Emma: How can we address that?
+
+Priya: We should standardize ticket categories and provide training to support agents.
+
+Raj: We can also introduce automated routing rules to assign tickets based on keywords.
+
+Emma: That sounds useful. Let's proceed with both initiatives.
+
+Priya: I will prepare updated ticket classification guidelines by Friday.
+
+Raj: I will work with IT to configure automated routing rules by the end of the month.
+
+Emma: Great. We will monitor response times for the next four weeks and evaluate the impact of these changes.
+
+Raj: Agreed.
+
+Emma: Thank you everyone for your contributions.
