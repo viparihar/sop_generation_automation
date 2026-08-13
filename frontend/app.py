@@ -2,11 +2,14 @@ import json
 import requests
 import streamlit as st
 from textwrap import dedent
+import os
 
 st.set_page_config(
     page_title="Meeting SOP Generator",
     layout="wide"
 )
+
+API_URL = "https://sop-generation-automation.onrender.com/"
 
 st.title(
     "📋 Meeting Transcript → SOP Generator"
@@ -30,7 +33,8 @@ if st.button(
     ):
 
         response = requests.post(
-            "http://localhost:8000/generate-sop",
+            # "http://localhost:8000/generate-sop",
+            API_URL,
             json=payload
         )
 
