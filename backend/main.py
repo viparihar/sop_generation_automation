@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi import HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from transcript_service import TranscriptService
+from .transcript_service import TranscriptService
 from llm_service import SOPService
 from models import MeetingRequest
 from models import SOPModel
