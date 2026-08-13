@@ -5,8 +5,8 @@ from pathlib import Path
 class TranscriptService:
 
     def get_transcript(self, meeting_id: str):
-        base_dir = Path(__file__).resolve().parent.parent
-        meetings_file = base_dir / "data" / "meetings.json"
+        BASE_DIR = Path(__file__).resolve().parent
+        meetings_file = BASE_DIR / "data" / "meetings.json"
 
         with open(
             meetings_file,
