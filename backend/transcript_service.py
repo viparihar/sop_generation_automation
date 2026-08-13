@@ -22,7 +22,7 @@ class TranscriptService:
             return None
 
         transcript_path = (
-            base_dir
+            BASE_DIR
             / "data"
             / "transcripts"
             / meeting["file"]
