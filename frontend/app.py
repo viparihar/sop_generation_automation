@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "https://sop-generation-automation.onrender.com/"
+API_URL = "https://sop-generation-automation.onrender.com/generate-sop"
 
 st.title(
     "📋 Meeting Transcript → SOP Generator"
