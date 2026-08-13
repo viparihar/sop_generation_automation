@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi import HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 from transcript_service import TranscriptService
 from llm_service import SOPService
@@ -8,6 +9,14 @@ from models import SOPModel
 
 app = FastAPI(
     title="Meeting SOP Generator"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  
+    allow_credentials=False, # search why it is false
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 transcript_service = TranscriptService()
