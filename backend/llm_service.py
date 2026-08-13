@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 
 from langchain_mistralai import ChatMistralAI
 
-from prompts import sop_prompt
+from .prompts import sop_prompt
 
-from models import SOPModel
+from .models import SOPModel
 
 load_dotenv()
 
