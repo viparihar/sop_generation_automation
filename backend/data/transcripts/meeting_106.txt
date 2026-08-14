@@ -1,0 +1,25 @@
+Chris (IT Operations Manager): Thank you for attending. Today's meeting focuses on improving our incident management process.
+
+Anita (Service Desk Lead): Recent incidents have highlighted delays in escalation and communication.
+
+Rohit (Infrastructure Engineer): During the last outage, multiple teams were unsure about ownership of technical actions.
+
+Chris: We need a more structured process.
+
+Anita: I propose that all incidents be categorized into severity levels such as High, Medium, and Low.
+
+Rohit: We should define escalation timelines for each severity level.
+
+Chris: What about communications?
+
+Anita: A communication coordinator should be assigned during major incidents to provide regular status updates to stakeholders.
+
+Rohit: We also need a post-incident review process to identify root causes and preventive actions.
+
+Chris: Good suggestions. Anita, please develop incident severity guidelines.
+
+Anita: I'll complete them by Monday.
+
+Rohit: I'll document escalation procedures and response timelines.
+
+Chris: Excellent. We'll evaluate the updated process during the next operations review.

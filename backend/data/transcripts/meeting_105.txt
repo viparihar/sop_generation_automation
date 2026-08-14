@@ -1,0 +1,25 @@
+Daniel (Procurement Manager): Thanks everyone for joining. We need to review our procurement approval workflow and reduce delays in purchase request processing.
+
+Nina (Finance Lead): Many requests remain pending because approval responsibilities are unclear.
+
+Arjun (Operations Manager): Some departments are also submitting incomplete purchase requests, which results in rework.
+
+Daniel: How can we improve the process?
+
+Nina: We should define clear approval thresholds. For example, purchases below $5,000 can be approved by department managers, while larger purchases require finance approval.
+
+Arjun: We should also introduce a standard request template to ensure all required information is submitted.
+
+Daniel: Agreed. Can we automate notifications for pending approvals?
+
+Nina: Yes, IT can configure reminder notifications after 48 hours of inactivity.
+
+Arjun: That would help reduce bottlenecks.
+
+Daniel: Excellent. Nina, please document approval thresholds. Arjun, work on the request template.
+
+Nina: I'll complete the approval matrix by next week.
+
+Arjun: I'll deliver the template by Friday.
+
+Daniel: Great. We'll review progress during the next procurement meeting.
